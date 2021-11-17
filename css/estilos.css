@@ -4,6 +4,18 @@ body
     text-aligin :left;
     font-family: "Arial";
     font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#Cabecera 
+{
+    background:#33A;
+    color: white;
+    font-weight:bold ;
+    margin: 0;
+    padding: 0.5 em;
+
 }
 #containes
 {
